@@ -39,3 +39,15 @@ else return v.slice(1) + v[0];
 }
 ```
 ---
+### Courses:
+
+- HTML and CSS Tutorials on the [freeCodeCamp](https://www.freecodecamp.org/learn/) (completed)<br>
+- JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)<br>
+- RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)
+
+---
+
+### Languages:
+
+- English \- Intermediate
+- Russian \- Native
