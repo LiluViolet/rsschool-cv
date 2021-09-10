@@ -2,10 +2,10 @@
 
 ### Contact information:
 
-**Phone:** +375 29 603-86-32 <br>
-**E-mail:** lilu.rymkevich@mail.ru <br>
-**GitHub** @LiluViolet <br>
-**Discord** Olga Rymkevich#1292
+- **Phone:** +375 29 603-86-32     
+- **E-mail:** lilu.rymkevich@mail.ru
+- **GitHub** @LiluViolet
+- **Discord** Olga Rymkevich#1292
 
 ---
 
