@@ -1,1 +1,1 @@
-https://github.com/LiluViolet/rsschool-cv/  
+https://LiluViolet.github.io/rsschool-cv/
